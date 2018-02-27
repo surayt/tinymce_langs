@@ -1,3 +1,5 @@
+// TinyMCE core
+
 tinymce.addI18n('en_GB',{
 "Cut": "Cut",
 "Heading 5": "Heading 5",
@@ -227,4 +229,33 @@ tinymce.addI18n('en_GB',{
 "View": "View",
 "Table": "Table",
 "Format": "Format"
+});
+
+// uploadfile plugin
+
+tinyMCE.addI18n("en", {
+  "Upload a file from your computer": "Upload image or audio file to editor",
+  "Insert file": "Insert file",
+  "Choose a file": "Choose a file",
+  "Target": "Target",
+  "You must choose a file": "You must choose a file",
+  "Got a bad response from the server": "Got a bad response from the server",
+  "Did not get a response from the server": "Did not get a response from the server",
+  "Insert": "Insert",
+  "Cancel": "Cancel",
+  "Link text": "Link text"
+});
+
+// insertexercise plugin
+
+tinyMCE.addI18n("en", {
+  "Select exercise": "Select exercise",
+  "Insert an exercise": "Insert an exercise",
+  "Select exercise": "Select exercise",
+  "Prepared exercise:": "Prepared exercise:",
+  "If you haven't prepared an exercise yet, you may close this dialog and<br/>navigate to the exercise management screen (see the buttons in the<br/>upper right corner) and create one there. Once you open this dialog<br/>again, you will be able to select your exercise in the above menu.": "If you haven't prepared an exercise yet, you may close this dialog and<br/>navigate to the exercise management screen (see the buttons in the<br/>upper right corner) and create one there. Once you open this dialog<br/>again, you will be able to select your exercise in the above menu.",
+  "Insert": "Insert",
+  "Cancel": "Cancel",
+  "You must choose an exercise to be inserted into the document.": "You must choose an exercise to be inserted into the document.",
+  "Insert a prepared exercise": "Insert a prepared exercise"
 });
